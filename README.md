@@ -1,5 +1,5 @@
 ## React-Webpack-Boilerplate
-React reacy to use project with webpack setup
+React ready to use project with webpack setup
 
 #### How to use the setup?
 
